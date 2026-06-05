@@ -8,7 +8,7 @@ body {
 }
 
 #encabezado {
-  background-color: #FEE0B9;
+  background-color:#FEE0B9;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -22,7 +22,7 @@ body {
         font-size: 18px;
         list-style-type:none;
         height: auto;
-        background-color: #FEE0B9;
+        background-color:#FEE0B9;
         }
 
 #columna_principal {
